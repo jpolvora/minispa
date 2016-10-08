@@ -1,0 +1,1 @@
+jspm bundle js/boot src/main-bundle.js
